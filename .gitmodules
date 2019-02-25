@@ -1,3 +1,6 @@
 [submodule "memory-management-unit"]
 	path = memory-management-unit
 	url = https://github.com/meetparekh09/memory-management-unit.git
+[submodule "Linker"]
+	path = Linker
+	url = https://github.com/meetparekh09/Linker.git
