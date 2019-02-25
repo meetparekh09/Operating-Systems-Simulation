@@ -4,3 +4,6 @@
 [submodule "Linker"]
 	path = Linker
 	url = https://github.com/meetparekh09/Linker.git
+[submodule "IO-Management-Simulation"]
+	path = IO-Management-Simulation
+	url = https://github.com/meetparekh09/IO-Management-Simulation.git
