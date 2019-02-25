@@ -7,3 +7,6 @@
 [submodule "IO-Management-Simulation"]
 	path = IO-Management-Simulation
 	url = https://github.com/meetparekh09/IO-Management-Simulation.git
+[submodule "Discrete-Event-Simulation"]
+	path = Discrete-Event-Simulation
+	url = https://github.com/meetparekh09/Discrete-Event-Simulation.git
